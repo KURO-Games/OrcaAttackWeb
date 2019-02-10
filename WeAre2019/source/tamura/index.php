@@ -332,8 +332,18 @@ public class ScoreBoard : MonoBehaviour {
 }
 </code></pre>
 </br>
-<h3>
+
+<h2>
+この他に、このサーバを構築運用しています。
+</br></h2><h3>
+CentOS7 Apache PHP JavaScript
+
+</br></br>
+<center>
 <a target="_blank" href="https://github.com/KURO-Games/OrcaAttack" color="skyblue">Github</a>
+        
+<a target="_blank" href="https://github.com/KURO-Games/OrcaAttackWeb" color="skyblue">WebPageSourceCord</a>
+</center>
 </h3>
 </body>
 </html>
